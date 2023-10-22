@@ -1,4 +1,4 @@
-Fn main() {
+ fn main() {
  Let p:f64 = 1000.0;
  Let r:f64 = 1.0;
  Let t:f64 = 2.0;
