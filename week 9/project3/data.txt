@@ -1,0 +1,72 @@
+Company: Cadbury Nigeria Plc
+Year Founded: 2000
+Shares: 2000000
+Liabilities: 1000000
+Leverage: 0.50
+Percentage Leverage: 50.00
+Percentage Leverage Multiplier: 100.00
+5%: 2.50
+
+Company: Champion Breweries
+Year Founded: 1995
+Shares: 1500000
+Liabilities: 800000
+Leverage: 0.47
+Percentage Leverage: 46.67
+Percentage Leverage Multiplier: 93.33
+5%: 2.33
+
+Company: Dangote Sugar Refinery Plc
+Year Founded: 2005
+Shares: 2500000
+Liabilities: 1500000
+Leverage: 0.40
+Percentage Leverage: 40.00
+Percentage Leverage Multiplier: 80.00
+5%: 2.00
+
+Company: Flour Mills Nigeria Pic
+Year Founded: 1960
+Shares: 32000000
+Liabilities: 4000000
+Leverage: 0.88
+Percentage Leverage: 87.50
+Percentage Leverage Multiplier: 175.00
+5%: 4.38
+
+Company: Nestle Nigeria Plc
+Year Founded: 1950
+Shares: 5000000
+Liabilities: 2000000
+Leverage: 0.60
+Percentage Leverage: 60.00
+Percentage Leverage Multiplier: 120.00
+5%: 3.00
+
+Company: Unilever Nigeria PIc
+Year Founded: 1923
+Shares: 37000000
+Liabilities: 11000000
+Leverage: 0.70
+Percentage Leverage: 70.27
+Percentage Leverage Multiplier: 140.54
+5%: 0.00
+
+Company: Honeywell Nigeria Plc
+Year Founded: 1980
+Shares: 3000000
+Liabilities: 1200000
+Leverage: 0.60
+Percentage Leverage: 60.00
+Percentage Leverage Multiplier: 120.00
+5%: 3.00
+
+Company: Nigeria Breweries Plc
+Year Founded: 1975
+Shares: 4500000
+Liabilities: 2500000
+Leverage: 0.44
+Percentage Leverage: 44.44
+Percentage Leverage Multiplier: 88.89
+5%: 2.22
+
